@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+    color: lightblue;
+}
+
+#first-div {
+    background-color: lightpink;
+}
+
+.paragraph {
+    color: black;
+    font-size: 2rem;
+}
